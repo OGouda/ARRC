@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706301522042",
+    "firebase_url": "https://arrcsenior.firebaseio.com",
+    "project_id": "arrcsenior",
+    "storage_bucket": "arrcsenior.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706301522042:android:776ddd3988fbacb9",
+        "android_client_info": {
+          "package_name": "com.AAO.ARRCV3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706301522042-9t3019lvdjcio13dkk7pplfsjsjcsos6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPldX40LfnqoOcx2NJMeKu9h7_9pT-S1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706301522042-9t3019lvdjcio13dkk7pplfsjsjcsos6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
